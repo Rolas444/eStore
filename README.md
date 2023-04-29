@@ -19,4 +19,4 @@ VITE_APP_MESSAGING_SENDER_ID=
 VITE_APP_ID=
 ```
 
-#### run "npm install" at both directories then npm start in "/server" and "npm run dev" in "/client"
+#### run "npm install" at both directories then "npm start" in "/server" and "npm run dev" in "/client"
